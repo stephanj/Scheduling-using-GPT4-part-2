@@ -17,7 +17,7 @@ For the complete ChatGPT prompt, generated code and further details, please foll
 
 👉🏼 https://chat.openai.com/share/7d2af985-db1d-4703-9bf7-6701030d56cc
 
-![SchedulePrompt](https://github.com/stephanj/Scheduling-using-GPT4-part-2/assets/179457/9be7b928-9f7f-4a2d-9890-75dafe25809a)
+![SchedulePrompt](https://github.com/stephanj/Scheduling-using-GPT4-part-2/assets/179457/27117087-cc33-4d25-b690-6a5b576d04db)
 
 ### Talk'ing
 
@@ -25,4 +25,4 @@ During my presentations at Devoxx France and UK, I shared my experiences of inco
 
 👉🏼 https://www.youtube.com/watch?v=9HsFWOb4aWs
 
-![cover](https://github.com/stephanj/Scheduling-using-GPT4-part-2/assets/179457/0c34917a-1ce5-472b-a409-15fba28c45e7)
+![cover](https://github.com/stephanj/Scheduling-using-GPT4-part-2/assets/179457/7f60e9b3-b834-496d-8ccd-10601cdcbd77)
